@@ -40,8 +40,6 @@ Análisis exploratorio de datos (EDA) para estudiar el comportamiento de compra 
   
    *Univeridad Privada del Norte, Perú*
 
-## 📩 Contacto
-
 
 ## 📩 Contacto
 
